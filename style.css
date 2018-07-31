@@ -1,0 +1,28 @@
+html {
+  font-size: 62.5%;
+  font-family: serif;
+}
+
+body {
+  font-size: 1.8rem;
+  line-height: 1.618;
+  max-width: 38em;
+  margin: auto;
+  color: DarkSlateGray;
+  background-color: Lavender;
+  padding: 13px;
+}
+
+h1 {
+  font-size: 2em;
+}
+
+textarea {
+  width: 100%;
+}
+
+#logo {
+  position: absolute;
+  left: 5%;
+  top: 5%;
+}

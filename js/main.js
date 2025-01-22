@@ -10,7 +10,8 @@ $(document).ready(function(){
   "package":["box","shrink-wrapped box","usb stick","card with download code","cartridge","floppy disc","disc","CD-Rom","catalog","card sleeve","cassette tape","series of punchcards","type-in program zine","zine","URL printed on a sheet of paper","QR code","large box","small box","sleeve attached to a programming book","magazine freebie"],
   "superlative":["exciting","exacting","revolting","sick","substantial","newest","user-friendly","beginner-friendly","low tech","advanced","demanding","satisfying","hyped","written-about","celebrated","novel","innovative","castigated","ridiculous","remarkable","conservative","clunky","hackable","original","reviewed","highly regarded","customizable","customized","true to the developer's vision"],
   "addition":["user guide","manual and #addition#","documentation","original French/English userguide","AOL Online disc","manual","quickstart guide","basic manual","check list","mail-in user registration form","zine","warranty form","coloring book","troll doll","walkthrough guide","support number","activation code and required dongle","collectible sticker","signed poster","beanie baby"],
-  "origin":["#topic.capitalize# #version# is a #digitalArtifact# for #hardware#, #from# the #name# #group.capitalize#, packaged in a #package#. The most #superlative# version, it features a #addition# in the package."]
+    "boosts":["also includes","comes with","is packaged with","ships with","contains","comes with"],
+  "origin":["#topic.capitalizeAll# #version# is a #digitalArtifact# for #hardware#, #from# the #name# #group.capitalizeAll#, packaged in a #package#. The most #superlative# version, it #boosts# a #addition#."]
   }
 
   generate();
